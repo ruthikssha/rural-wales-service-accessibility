@@ -1,4 +1,4 @@
-# rural-wales-service-accessibility
+# Rural-wales-service-accessibility
 
 Using current datasets to measure travel-time access to care and everyday
 services across rural and urban Wales — a Rural Health Compass placement project.
