@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# RStudio session / user files (don't commit these)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Raw source data — never commit (data licensing + GitHub's 25 MB browser limit)
+/data/raw/
+
+# Operating-system clutter
+.DS_Store
+Thumbs.db
