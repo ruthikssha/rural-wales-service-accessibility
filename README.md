@@ -1,4 +1,4 @@
-# rural-wales-service-accessibility
+# Rural-wales-service-accessibility
 
 Using current datasets to measure travel-time access to care and everyday
 services across rural and urban Wales — a Rural Health Compass placement project.
@@ -55,7 +55,7 @@ its source using the links below. (Use WIMD 2025.)
 3. Open the `.Rproj` file in RStudio.
 4. Run the scripts in `scripts/` in order.
 
-[Add your R version and key packages once known, e.g. R 4.x; sf, dplyr, tmap.]
+[Add R version and key packages once known, e.g. R 4.x; sf, dplyr, tmap.]
 
 ## Licence
 - **Code** (everything in `scripts/`) — MIT Licence, see `LICENSE-CODE`.
