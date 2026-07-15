@@ -42,12 +42,12 @@ pharmacies, supermarkets and other local amenities.
 Raw datasets are **not redistributed in this repository** — download each from
 its source using the links below. (Use WIMD 2025.)
 
-| Dataset | Provider | Licence | Link |
-|---|---|---|---|
-| [WIMD 2025 — Access to Services domain] | [Welsh Government] | [OGL v3.0] | [URL] |
-| [LSOA boundaries] | [ONS] | [OGL v3.0] | [URL] |
-| [Rural–urban classification] | [ONS] | [OGL v3.0] | [URL] |
-| [Primary / secondary care facility locations] | [NHS Wales / StatsWales] | [check licence] | [URL] |
+| Dataset | Provider | Licence |
+|---|---|---|
+| WIMD 2025 — Access to Services domain | Welsh Government | OGL v3.0 |
+| LSOA boundaries | ONS | OGL v3.0 |
+| Rural–urban classification | ONS | OGL v3.0 |
+| Primary / secondary care facility locations | NHS Wales / StatsWales | OGL v3.0 |
 
 ## Reproducing the Analysis
 1. Clone this repository.
