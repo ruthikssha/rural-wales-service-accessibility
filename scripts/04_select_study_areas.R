@@ -105,8 +105,6 @@ stopifnot(nrow(study_lsoa) == nrow(study_centroids))
 stopifnot(setequal(study_lsoa$lsoa_code, study_centroids$lsoa_code))
 
 # -----------------------------------------------------------------------------
-# 7. Save for the next scripts
-# -----------------------------------------------------------------------------
 
 st_write(study_lsoa,      "Data/processed/study_lsoa.gpkg",      delete_dsn = TRUE, quiet = TRUE)
 st_write(study_centroids, "Data/processed/study_centroids.gpkg", delete_dsn = TRUE, quiet = TRUE)
