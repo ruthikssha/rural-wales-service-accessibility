@@ -1,0 +1,21 @@
+"service","study_area","n","median_km","p90_km","max_km"
+"GP","Ceredigion",45,4,11.7,14.4
+"GP","Pembrokeshire",71,3,10.7,16.9
+"GP","Powys",79,3.9,12.8,20.8
+"GP","Swansea",150,1.4,3.6,11.2
+"Pharmacy","Ceredigion",45,4.5,13.1,21.8
+"Pharmacy","Pembrokeshire",71,6.3,12.9,16.4
+"Pharmacy","Powys",79,4.9,15,26.4
+"Pharmacy","Swansea",150,1.5,7,11.2
+"Supermarket","Ceredigion",45,4.9,13,19.5
+"Supermarket","Pembrokeshire",71,2.5,9.7,16.8
+"Supermarket","Powys",79,5.8,15.6,31.2
+"Supermarket","Swansea",150,1.4,2.8,8.6
+"A&E","Ceredigion",45,24.7,41.4,45.2
+"A&E","Pembrokeshire",71,19,32.8,41.7
+"A&E","Powys",79,52.7,72.1,93.6
+"A&E","Swansea",150,9.7,16.7,31.8
+"Mental health","Ceredigion",45,64.4,83.9,101.1
+"Mental health","Pembrokeshire",71,18.9,32.6,42.5
+"Mental health","Powys",79,76.5,111.5,119
+"Mental health","Swansea",150,4.1,7.7,21.1
